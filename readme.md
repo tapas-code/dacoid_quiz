@@ -26,8 +26,8 @@ This is an interactive quiz platform where users can attempt quizzes, receive in
 ## 💻 **How to Run Locally**
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/your-username/quiz-platform.git
-   cd quiz-platform
+   git clone https://github.com/tapas-code/dacoid_quiz.git
+   cd dacoid_quiz
    ```  
 2. **Install dependencies:**  
    ```bash
@@ -40,9 +40,9 @@ This is an interactive quiz platform where users can attempt quizzes, receive in
 4. **Open the app:**  
    Navigate to `http://localhost:5173` in your browser.
 
-## 🌐 Live Demo
-
-Check out the deployed app [here](https://your-deployed-app-link.com) 🌍
+## 🌐 Deployment
+The app is deployed on **Netlify**. You can access it here:
+👉 **[Live Demo](https://dacoid_quiz.netlify.app/)** 🌍
 
 ## 🏆 Key Highlights
 
@@ -50,7 +50,11 @@ Check out the deployed app [here](https://your-deployed-app-link.com) 🌍
 - Modular codebase for easy scalability and maintenance.
 - Persistent quiz history even after page refresh.
 
-## 📄 License
+---
 
-Feel free to fork and modify the project for your needs!
+### ✨ Special Thanks
+- **Vite** for a fast development experience.
+- **Tailwind CSS** for making styling effortless.
+- **Lucide Icons** for beautiful UI elements.
 
+💡 Feel free to contribute by submitting issues or pull requests! 🚀
