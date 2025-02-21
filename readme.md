@@ -42,7 +42,7 @@ This is an interactive quiz platform where users can attempt quizzes, receive in
 
 ## 🌐 Deployment
 The app is deployed on **Netlify**. You can access it here:
-👉 **[Live Demo](https://dacoid_quiz.netlify.app/)** 🌍
+👉 **[Live Demo](https://dacoid-quiz-app.netlify.app/)** 🌍
 
 ## 🏆 Key Highlights
 

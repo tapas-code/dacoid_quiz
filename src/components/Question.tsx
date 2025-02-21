@@ -53,7 +53,11 @@ export const Question: React.FC<QuestionProps> = ({ question }) => {
             return (
               <label
                 key={index}
-                className={`${containerClass} ${currentAnswer !== undefined ? 'opacity-50 cursor-not-allowed' : ''}`}
+                className={`${containerClass} ${
+                  currentAnswer !== undefined && currentAnswer !== String.fromCharCode(65 + index)
+                    ? 'opacity-50 cursor-not-allowed'
+                    : ''
+                }`}
               >
                 <input
                   type="radio"
